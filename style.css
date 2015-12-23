@@ -17,7 +17,7 @@ body {
   .layer-0 {
     top: 0;
     z-index: 5;
-    background: #dbf0ff url('images/inp_01_basestars_2x.png');
+    background: #0A061B url('images/inp_01_basestars_2x.png');
     background-size: auto 653px;
     background-position: top center;
     background-repeat: no-repeat;
