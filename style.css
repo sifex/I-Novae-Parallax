@@ -20,6 +20,7 @@ body {
     background: #dbf0ff url('images/inp_01_basestars_2x.png');
     background-size: auto 653px;
     background-position: top center;
+    background-repeat: no-repeat;
   }
   .layer-1 {
     top: 0;
@@ -27,6 +28,7 @@ body {
     background-image: url('images/inp_02_morestars_2x.png');
     background-size: auto 653px;
     background-position: top center;
+    background-repeat: no-repeat;
   }
   .layer-2 {
     top: 0;
@@ -34,6 +36,7 @@ body {
     background-image: url('images/inp_03_evenmorestars_2x.png');
     background-size: auto 653px;
     background-position: top center;
+    background-repeat: no-repeat;
   }
   .layer-3 {
     top: 0;
@@ -41,6 +44,7 @@ body {
     background-image: url('images/inp_05_frontstars_2x.png');
     background-size: auto 653px;
     background-position: top center;
+    background-repeat: no-repeat;
   }
   .layer-4 {
     top: 0;
@@ -48,24 +52,28 @@ body {
     background-image: url('images/inp_04_bigplanet_2x.png');
     background-size: auto 653px;
     background-position: top center;
+    background-repeat: no-repeat;
   }
   .layer-5 {
     z-index: 20;
     background-image: url('images/inp_06_smallplanet_2x.png');
     background-size: auto 653px;
     background-position: top center;
+    background-repeat: no-repeat;
   }
   .layer-6 {
     z-index: 30;
     background-image: url('images/inp_07_clouds_2x.png');
     background-size: auto 653px;
     background-position: top center;
+    background-repeat: no-repeat;
   }
   .layer-7 {
     z-index: 35;
     background-image: url('images/inp_08_moreclouds_2x.png');
     background-size: auto 653px;
     background-position: top center;
+    background-repeat: no-repeat;
   }
 
   
