@@ -1,5 +1,5 @@
 body {
-  background: #415a6c;
+  background: #FFF;
   margin: 0;
   font-family: 'Oswald';
 }
@@ -81,9 +81,8 @@ body {
 .content {
   position: absolute;
   top: 653px;
-  background: #fafafa;
+  background: #444;
   width: 100%;
-  min-height: 2000px;
 }
   .content h1 {
     color: #fff;
